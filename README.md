@@ -1,4 +1,4 @@
-# DataMining-Covid19-Italy
+# DataMining Covid-19 in Italy
 
 Progetto Data Mining:
 
