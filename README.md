@@ -8,6 +8,8 @@ Progetto Data Mining:
 
 Con questo progetto si stimano per l’Italia, mediante la cluster analysis, con un modello replicabile anche per altri Paesi (o altre variabili), quattro gruppi ben definiti di mortalità: *Bassa*, *Media*, *Alta* e *Molto Alta*.
 
+Data di osservazione da **25-02-2020** a **31-12-2020**
+
 <img src="https://github.com/LorenzoPratesi/DataMining-Covid19-Italy/blob/main/images/log-mort.png" width="650"/>
 
 
